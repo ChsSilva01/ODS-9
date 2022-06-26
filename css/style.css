@@ -1,0 +1,203 @@
+.wraaper{
+    width: 100%;
+    height: 550vh;  
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    position: absolute;
+}
+.image-top{
+    width: 100%;
+    height: 5vh;
+    top: 0;
+    left: 0;
+    position: relative;
+    background-image: url(ODS.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #ffff;
+}
+.title-top{
+    width: 100%;
+    height: 25vh;
+    top: 0;
+    left: 0;
+    position: relative;
+    background-color: #F26A2E;
+    border-bottom: 3px solid #000;
+    border-top: 3px solid #000;
+}
+#number{
+    font-size: 9em;
+    color: #ffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    display: block;
+    margin-top: 1px;
+}
+#number-position{
+    width: 20vw;
+    height: 20vh;
+    right: 160vh;
+    bottom: 4vw;
+    position: absolute;
+}
+#title{
+    font-size: 3em;
+    color: #ffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    display: block;
+    width: 40vw;
+    height: 20vh;
+    left: 30vh;
+    top: 1vw;
+    position: absolute;
+}
+#logo-position{
+    position: absolute;
+    width: 15vw;
+    height: 15vh;
+    top: 0;
+    right: 0;
+}
+#logo-image{
+    width: 15vw;
+    height: 20vh;
+}
+.corpo{
+    width: 100%;
+    height: 455vh;
+    position: absolute;
+
+}
+#title-introducion{
+    font-size: 3em;
+    left: 500px;
+    top: 120px;
+    position: absolute;
+}
+#introducion{
+    width: 90vw;
+    height: 20vh;
+    left: 10vh;
+    top: 30vh;
+    position: absolute;
+    font-size: 1.5em;
+    text-align: justify;
+}
+#title-objetives{
+    font-size: 3em;
+    left: 500px;
+    top: 420px;
+    display: flex;
+    position: absolute;
+    font-family: 'Inter';
+}
+#objetives{
+    width: 57vw;
+    height: 20vh;
+    left: 10vh;
+    top: 100vh;
+    position: absolute;
+    font-size: 1.5em;
+    text-align: justify;
+}
+.position-image{
+    right: 50px;
+    top: 97vh;
+    position: absolute;
+}
+.image-bus{
+    width: 25vw;
+    right: 25vh;
+}
+#objetives2{
+    width: 90vw;
+    height: 100vh;
+    left: 10vh;
+    top: 137vh;
+    position: absolute;
+    font-size: 1.5em;
+    text-align: justify;
+}
+.circle{
+    position: absolute;
+    width: 230px;
+    height: 342px;
+    right: 0;
+    top: 1336px;
+    background-color: #F26A2E;
+    border-top-left-radius: 100%;
+    border-bottom-left-radius: 100%;
+    border-left: 3px solid #000;
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+}
+#Brasil{
+    font-size: 3em;
+    left: 200px;
+    top: 1750px;
+    display: flex;
+    position: absolute;
+    font-family: 'Inter';
+}
+#Brasil-text{
+    width: 90vw;
+    height: 20vh;
+    left: 10vh;
+    top: 290vh;
+    position: absolute;
+    font-size: 1.5em;
+    text-align: justify;
+}
+.circle2{
+    position: absolute;
+    width: 230px;
+    height: 342px;
+    left: 0;
+    top: 2200px;
+    background-color: #F26A2E;
+    border-bottom-right-radius: 50%;
+    border-top-right-radius: 50%;
+    border-right: 3px solid #000;
+    border-bottom: 3px solid #000;
+    border-top: 3px solid #000;
+}
+.square{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 410px;
+    top: 2500px;
+    background-color: #F26A2E;
+}
+.square2{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 650px;
+    top: 2700px;
+    background-color: #F26A2E;
+ 
+}
+.footer{
+    width: 100%;
+    height: 15vh;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    background-color: #F26A2E;
+    border-top:3px solid #000 ;
+}
+.footer-square{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 300px;
+    bottom: 50px;
+    background-color: #F26A2E;
+    border-top: 3px solid #000;
+    border-left: 3px solid #000;
+    transform: rotate(45deg);
+}

@@ -1,6 +1,6 @@
 .wraaper{
     width: 100%;
-    height: 550vh;  
+    height: 650vh;  
     top: 0;
     left: 0;
     background-color: #fff;
@@ -86,10 +86,24 @@
     font-size: 1.5em;
     text-align: justify;
 }
+.img1{
+    width: 50px;
+    height: 50px;
+    top: 0%;
+    left: 0%;
+    position: absolute;
+}
+.img2{
+    width: 50px;
+    height: 50px;
+    top: 0%;
+    right: 200px;
+    position: absolute;
+}
 #title-objetives{
     font-size: 3em;
     left: 500px;
-    top: 420px;
+    top: 430px;
     display: flex;
     position: absolute;
     font-family: 'Inter';
@@ -123,13 +137,13 @@
 }
 .circle{
     position: absolute;
-    width: 230px;
+    width: 200px;
     height: 342px;
     right: 0;
     top: 1336px;
     background-color: #F26A2E;
-    border-top-left-radius: 100%;
-    border-bottom-left-radius: 100%;
+    border-top-left-radius: 1000px;
+    border-bottom-left-radius: 1000px;
     border-left: 3px solid #000;
     border-top: 3px solid #000;
     border-bottom: 3px solid #000;
@@ -151,35 +165,55 @@
     font-size: 1.5em;
     text-align: justify;
 }
+#world{
+    font-size: 3em;
+    left: 200px;
+    top: 2250px;
+    display: flex;
+    position: absolute;
+    font-family: 'Inter';
+}
+#world-text{
+    width: 90vw;
+    height: 20vh;
+    left: 10vh;
+    top: 390vh;
+    position: absolute;
+    font-size: 1.5em;
+    text-align: justify;
+}
 .circle2{
     position: absolute;
-    width: 230px;
+    width: 200px;
     height: 342px;
     left: 0;
     top: 2200px;
     background-color: #F26A2E;
-    border-bottom-right-radius: 50%;
-    border-top-right-radius: 50%;
+    border-bottom-right-radius: 1000px;
+    border-top-right-radius: 1000px;
     border-right: 3px solid #000;
     border-bottom: 3px solid #000;
     border-top: 3px solid #000;
 }
 .square{
     position: absolute;
-    width: 300px;
-    height: 300px;
-    left: 410px;
-    top: 2500px;
-    background-color: #F26A2E;
+    width: 500px;
+    height: 500px;
+    left: 250px;
+    top: 3000px;
+    background-image: url(Antes.png);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 .square2{
     position: absolute;
-    width: 300px;
-    height: 300px;
-    left: 650px;
-    top: 2700px;
-    background-color: #F26A2E;
- 
+    width: 500px;
+    height: 500px;
+    left: 500px;
+    top: 3250px;
+    background-image: url(Depois.png);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 .footer{
     width: 100%;

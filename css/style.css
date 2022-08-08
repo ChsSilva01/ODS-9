@@ -1,6 +1,6 @@
 .wraaper{
     width: 100%;
-    height: 1100vh;  
+    height: 920vh;  
     top: 0;
     left: 0;
     background-color: #fff;
@@ -75,7 +75,7 @@
     width:300px ;
     height:105px;
     top: 70px;
-    left:420px;
+    left:500px;
     position:relative;
     background-size: contain;
     background-repeat: no-repeat;
@@ -83,7 +83,7 @@
 }
 #title-introducion{
     font-size: 3em;
-    left: 500px;
+    left: 600px;
     top: 120px;
     position: absolute;
 }
@@ -113,7 +113,7 @@
 #title-objetives{
     font-size: 3em;
     left: 500px;
-    top: 1150px;
+    top: 1100px;
     display: flex;
     position: absolute;
     font-family: 'Inter';
@@ -122,14 +122,14 @@
     width: 57vw;
     height: 20vh;
     left: 10vh;
-    top: 200vh;
+    top: 160vh;
     position: absolute;
     font-size: 1.5em;
     text-align: justify;
 }
 .position-image{
     right: 120px;
-    top: 205vh;
+    top: 160vh;
     position: absolute;
 }
 .image-bus{
@@ -140,7 +140,7 @@
     width: 90vw;
     height: 100vh;
     left: 10vh;
-    top: 240vh;
+    top: 190vh;
     position: absolute;
     font-size: 1.5em;
     text-align: justify;
@@ -148,7 +148,7 @@
 .img-center{
     width:300px ;
     height: 105px;
-    top: 3800px;
+    top: 3600px;
     left:200px;
     position:relative;
     background-size: contain;
@@ -160,7 +160,7 @@
     width: 200px;
     height: 342px;
     right: 0;
-    top: 1000px;
+    top: 900px;
     background-color: #F26A2E;
     border-top-left-radius: 1000px;
     border-bottom-left-radius: 1000px;
@@ -171,7 +171,7 @@
 #Brasil{
     font-size: 3em;
     left: 200px;
-    top: 4000px;
+    top: 3800px;
     display: flex;
     position: absolute;
     font-family: 'Inter';
@@ -180,7 +180,7 @@
     width: 90vw;
     height: 20vh;
     left: 10vh;
-    top: 630vh;
+    top: 510vh;
     position: absolute;
     font-size: 1.5em;
     text-align: justify;
@@ -188,15 +188,15 @@
 #world{
     font-size: 3em;
     left: 200px;
-    top: 4500px;
+    top: 4350px;
     display: flex;
     position: absolute;
     font-family: 'Inter';
 }
 #world2{
     font-size: 3em;
-    left: 400px;
-    top: 5100px;
+    left: 500px;
+    top: 5000px;
     display: flex;
     position: absolute;
     font-family: 'Inter';
@@ -205,7 +205,7 @@
     width: 90vw;
     height: 20vh;
     left: 10vh;
-    top: 700vh;
+    top: 580vh;
     position: absolute;
     font-size: 1.5em;
     text-align: justify;
@@ -214,7 +214,7 @@
     width: 90vw;
     height: 20vh;
     left: 10vh;
-    top: 800vh;
+    top: 660vh;
     position: absolute;
     font-size: 1.5em;
     text-align: justify;
@@ -236,8 +236,8 @@
     position: absolute;
     width: 500px;
     height: 500px;
-    left: 300px;
-    top: 5900px;
+    left: 400px;
+    top: 5700px;
     background-image: url(Antes.png);
     background-size: contain;
     background-repeat: no-repeat;
@@ -246,8 +246,8 @@
     position: absolute;
     width: 500px;
     height: 500px;
-    left: 600px;
-    top: 6100px;
+    left: 700px;
+    top: 6000px;
     background-image: url(Depois.png);
     background-size: contain;
     background-repeat: no-repeat;
@@ -266,7 +266,7 @@
     width: 100px;
     height: 100px;
     left: 300px;
-    bottom: 49px;
+    bottom: 68px;
     background-color: #F26A2E;
     border-top: 3px solid #000;
     border-left: 3px solid #000;
